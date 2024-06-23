@@ -1,1 +1,2 @@
 This is file 2 from master
+This is file 2 from first
